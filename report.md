@@ -1,0 +1,1 @@
+In this task, I learned how to create and clone a Github repository. I practiced creating required files and using markdown formatting. This help me understand basic version control and project structure.
